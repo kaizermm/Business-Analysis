@@ -42,7 +42,7 @@
 
 * Cash Flow Management: Monitor cash flow to ensure there's enough liquidity to cover expenses and investments.
 
-## ## Description of the data
+## Description of the data
 
 ### The visits table (server logs with data on website visits):
 
