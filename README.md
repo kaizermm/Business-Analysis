@@ -10,38 +10,6 @@
 
 * Determination of Payback Period: Our analysis will uncover the timeframe in which a customer's spending surpasses acquisition costs, resulting in a positive return on investment. Armed with this knowledge, we can allocate marketing resources more effectively and optimize our strategies.
 
-## Business Interest
-
-1. Customer Support Analysis:
-
-* Ticket Volume: Quantify the number of support tickets received on a daily, weekly, and monthly basis to understand the volume of customer inquiries.
-
-* Response Times: Measure the average time it takes for support agents to respond to customer inquiries, ensuring timely assistance.
-
-* Ticket Resolution Rate: Evaluate the percentage of support tickets that are successfully resolved, providing insights into the effectiveness of support efforts.
-
-* Customer Satisfaction (CSAT) Score: Collect and analyze customer feedback to determine overall satisfaction levels with the support provided.
-
-2. Inventory Management:
-
-* Stock Levels: Monitor the quantity of products in stock to ensure optimal inventory levels and prevent stockouts or overstocking.
-
-* Inventory Turnover Rate: Calculate how quickly inventory is sold and replenished, offering insights into product demand.
-
-* Supplier Performance: Assess the reliability and efficiency of suppliers in terms of timely deliveries and product quality.
-
-* Waste Reduction: Identify areas where product waste occurs and develop strategies to minimize it, reducing costs.
-
-3. Financial Analysis:
-
-* Revenue Growth: Track revenue on a monthly and yearly basis to gauge overall business growth.
-
-* Profit Margins: Calculate profit margins to understand the profitability of different products or services.
-
-* Expense Breakdown: Analyze the distribution of expenses across various categories such as marketing, operations, and overhead.
-
-* Cash Flow Management: Monitor cash flow to ensure there's enough liquidity to cover expenses and investments.
-
 ## Description of the data
 
 ### The visits table (server logs with data on website visits):
@@ -73,6 +41,19 @@ source_id — ad source identifier
 dt — date
 
 costs — expenses on this ad source on this day
+
+## Table of contents
+1.Download the data and prepare it for analysis
+
+2.Make reports and calculate metrics
+
+-Products
+
+-Sales
+
+-Marketing
+
+3.Write a conclusion: advise marketing experts how much money to invest and where.
 
 
 
