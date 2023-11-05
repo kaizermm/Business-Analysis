@@ -55,6 +55,23 @@ costs — expenses on this ad source on this day
 
 3.Write a conclusion: advise marketing experts how much money to invest and where.
 
+## Conclusion and further improvement
+Conclusion:
+The project analysis highlights the need for strategic budget allocation, with an emphasis on high-performing sources (Source IDs 1 and 5) to maximize return on marketing investments. Furthermore, the importance of optimizing onboarding, retaining user engagement, and monitoring costs in relation to ROMI and cohort retention is evident.
+
+Areas for Improvement:
+
+Refine cost allocation strategies to align with changing source performance.
+Continuously optimize onboarding and user engagement to maintain conversion rates.
+Implement personalized promotions and clear calls-to-action for sustained growth.
+
+## Preview
+![image](https://github.com/kaizermm/Stocky-E-commerce-website/assets/121756502/62ea1c7d-209a-4178-a263-cb6fdb9c0580)
+
+![image](https://github.com/kaizermm/Stocky-E-commerce-website/assets/121756502/2b5ead18-bb0f-46e4-8d6f-3f8129ced81a)
+
+
+
 
 
 
